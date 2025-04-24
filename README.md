@@ -75,4 +75,15 @@ It's important to note that this simulation is a **Newtonian** model and include
 Despite these simplifications, the simulation serves as a useful tool for understanding and visualizing the fundamental principles of classical gravitational mechanics.
 
 Special Thanks to
-Dot Physics Youtube Channel , Gemini 2.5 and Claude 3.7 .
+Dot Physics Youtube Channel , Gemini 2.5 and Claude 3.7 
+
+
+
+Future Updates:
+Phase 0: 
+
+Code Refinement: Clean up the existing SolarSystemSimulation class. Add comments explaining sections, especially the physics calculations.
+
+Configuration: Moving physical constants (G), simulation parameters (tolerances), and initial body data sources into configuration files or separate data structures for easier management.
+
+Phase 1: New Project - Realistic Initial Conditions / Implement General Relativity (1PN Formalism)  /  Implement Complex Shapes
