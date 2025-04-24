@@ -74,3 +74,5 @@ It's important to note that this simulation is a **Newtonian** model and include
 
 Despite these simplifications, the simulation serves as a useful tool for understanding and visualizing the fundamental principles of classical gravitational mechanics.
 
+Special Thanks to
+Dot Physics Youtube Channel , Gemini 2.5 and Claude 3.7 .
